@@ -1,0 +1,4 @@
+langchain @ git+https://github.com/activeloopai/langchain.git
+openai
+deeplake
+tiktoken
